@@ -155,6 +155,7 @@
 
 .task28 {
   display: grid;
+  align-items: baseline;
   
 }
 
@@ -280,9 +281,12 @@
 }
 
 .task45 {
-  display: grid;
+  display: grid;  
+ 
+
 }
 .task45 .item3 {
+  
 }
 
 .task46 {
@@ -295,10 +299,12 @@
 
 .task48 {
   display: grid;
+  grid-auto-flow: row;
 }
 
 .task49 {
   display: grid;
+  grid-auto-flow: column;
   
 }
 
